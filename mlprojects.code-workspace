@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"name": "mlprojects",
+		"path": "."
+	},
+	{
+		"name": "notebook",
+		"path": "../ml-materials/Complete-Data-Science-With-Machine-Learning-And-NLP-2024-main/24-End To End ML Project With Deployment/mlproject-main/notebook"
+	}
+],
+  "settings": {}
+}
